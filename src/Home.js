@@ -14,7 +14,7 @@ const Home = () => {
       <div id='Heading'>
         <div id='first_child'>
       <h1 id='head'>
-        Enjoy <span>Delicious</span> <span>Food</span> in your Health Life
+        Enjoy <span>Delicious</span> <span>Food</span> in your Healthy Life
       </h1>
       <p>
       Embark on a culinary journey, where every bite delights your senses, nourishes your body, and fuels a vibrant, healthy life
